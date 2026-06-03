@@ -14,26 +14,22 @@ Yeah, *"I want PROblems! Always!" ~Some dude*
 
 ## 📚 Stack
 <div align="left">
-  <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge" height="35" alt="android logo"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" height="35" alt="kotlin logo"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" height="35" alt="java logo"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/Gradle-02303A?logo=gradle&logoColor=white&style=for-the-badge" height="35" alt="gradle logo"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" height="35" alt="bootstrap logo"  /></br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="35" alt="html5 logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="35" alt="css3 logo"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="35" alt="javascript logo"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" height="35" alt="php logo"  /></br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="35" alt="csharp logo"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" height="35" alt="dot-net logo"  /></br>
-  <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" height="35" alt="md logo"  />
+  <img alt="Android" src="https://img.shields.io/badge/Android-%25FFFFFF?style=for-the-badge&logo=android&logoColor=%233DDC84&color=%23000000" />
+  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-%25FFFFFF?style=for-the-badge&logo=kotlin&logoColor=%237F52FF&color=%23272430" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-%25FFFFFF?style=for-the-badge&color=%23ED8B00" />
+  <img alt="JavaFX" src="https://img.shields.io/badge/JavaFX-%25FFFFFF?style=for-the-badge&color=%23007396" />
+  <img alt="Gradle" src="https://img.shields.io/badge/Gradle-%25FFFFFF?style=for-the-badge&logo=gradle&logoColor=%23FFFFFF&color=%2302303A" />
+  <img alt="Spring" src="https://img.shields.io/badge/Spring-%25FFFFFF?style=for-the-badge&logo=spring&logoColor=%236DB33F&color=%231b1f23" /></br>
+  <img alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="28" />
+  <img alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="28" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%25FFFFFF?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&color=%23323330" />
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-%25FFFFFF?style=for-the-badge&logo=php&logoColor=%23000000&color=%23777BB4" /></br>
+  <img alt="CSharp" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="28" />
+  <img alt="DOTNET" src="https://img.shields.io/badge/.NET-%25FFFFFF?style=for-the-badge&logo=dotnet&logoColor=%23FFFFFF&color=%23512BD4" /></br>
+  <img alt="Git" src="https://img.shields.io/badge/Git-%25FFFFFF?style=for-the-badge&logo=git&logoColor=%23FFFFFF&color=%23F03C2E" />
+  <img alt="Markdown" src="https://img.shields.io/badge/Markdown-%25FFFFFF?style=for-the-badge&logo=markdown&logoColor=%23FFFFFF&color=%23000000" />
+  <img alt="Static Badge" src="https://img.shields.io/badge/SQL-%25FFFFFF?style=for-the-badge&color=%23003C69" />
+  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-%25FFFFFF?style=for-the-badge&logo=sqlite&logoColor=%23FFFFFF&color=%23003B57" /></br>
 </div>
 
 ## 📊 Statistics
